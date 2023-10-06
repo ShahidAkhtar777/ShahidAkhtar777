@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidakhtar777&label=Profile%20views&color=0e75b6&style=flat" alt="shahidakhtar777" /> </p>
 
-- 🔭 I’m currently working on **Golang**
+- 🔭 I’m currently working in **Python Django**
 
 - 🌱 I’m currently learning **Backend Technologies and System Design**
 
-- 👯 I’m looking to collaborate on **learning System Design**
+- 👯 I’m looking to collaborate on **Learning System Design**
 
 - 🤝 I’m looking for help with **Open Source**
 
